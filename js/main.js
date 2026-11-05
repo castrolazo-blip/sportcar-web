@@ -71,7 +71,7 @@
       if (v('cf-service')) lines.push('Servicio: ' + v('cf-service'));
       if (v('cf-ins')) lines.push('Seguro: ' + v('cf-ins'));
       if (v('cf-msg')) lines.push('', v('cf-msg'));
-      window.open('https://wa.me/50378733377?text=' + encodeURIComponent(lines.join('\n')), '_blank', 'noopener');
+      window.open('https://wa.me/50377979504?text=' + encodeURIComponent(lines.join('\n')), '_blank', 'noopener');
     });
   }
 })();
